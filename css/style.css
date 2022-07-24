@@ -1,0 +1,34 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color:rgba(91, 126, 134, 0.63);
+    color: #1b1a19
+}
+
+.quem-sou{
+    background-color:rgb(32, 136, 96);
+    color:rgb(200, 199, 204);
+}
+
+.margin{
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color:rgb(35, 55, 99);
+    color:rgb(200, 199, 204);
+}
+
+.serviços{
+    background-color:rgb(116, 25, 190);
+    color:rgb(200, 199, 204);
+}
+
+.tm-footer{
+    background-color:rgb(18, 3, 31);
+    color:rgb(180, 202, 194);
+}
