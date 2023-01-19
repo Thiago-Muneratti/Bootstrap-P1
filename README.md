@@ -1,9 +1,9 @@
-# Meu Primeiro Website com Bootstrap
+# Minha primeira página com Bootstrap
 ### _HTML-CSS-Bootstrap_
 
 
 
-- ✨O objetivo era criar o meu primeiro website responsivo ✨
+- ✨O objetivo era criar a minha primeira página responsiva ✨
 
 ##### Resultado do Curso Construindo páginas para internet com Bootstrap da Plataforma DIO-Digital Innovation One
 
